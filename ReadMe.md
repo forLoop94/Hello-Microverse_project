@@ -13,6 +13,9 @@ CSS
 # Prerequisites
 In order to run this project you need: a code editor
 
+# Background Image
+A Microverse image courtesy of wellfound.com
+
 
 # Author
 Charles Andrews
