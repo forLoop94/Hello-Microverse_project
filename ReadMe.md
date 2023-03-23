@@ -16,11 +16,8 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 
 
-<!-- PROJECT DESCRIPTION -->
-
 # 📖 Hello-Microverse_project <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **Hello-Microverse_project** is a beginner level project at Microverse. The project requires a student to add "Hello Microverse" to a webpage and apply some basic styling to it. It also requires the use of linters, .gitignore file and other best practices.
 
@@ -28,7 +25,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>HTML</summary>
@@ -44,13 +40,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **Linters**
 - **.gitignore file**
 - ****
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -80,8 +73,6 @@ Clone this repository to your desired folder:(e.g git clone git@github.com:myacc
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- CONTRIBUTING -->
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -91,8 +82,6 @@ Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- ACKNOWLEDGEMENTS -->
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
@@ -101,7 +90,6 @@ I would like to thank the Microverse organization, my code reviewer(Hiro) and my
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
