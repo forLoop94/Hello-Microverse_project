@@ -115,8 +115,8 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Home page ****
-- Desktop view ****
+- Home page
+- Desktop view
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
