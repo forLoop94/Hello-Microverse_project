@@ -49,9 +49,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Linters**
-- **.gitignore file**
-- ****
+- **Use linter**
+- **Use Professional documentation**
+- **Use HTML and CSS**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -70,7 +70,9 @@ In order to run this project you need: A code editor(e.g VS code)
 
 ### Setup
 
-Clone this repository to your desired folder:(e.g git clone git@github.com:myaccount/my-project.git)
+Clone this repository to your desired folder:(e.g cd Hello-Microverse_project 
+git clone git@github.com:forLoop94/Hello-Microverse_project.git)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -83,15 +85,8 @@ Install this project with:
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command: To run the project, open the index.html file with a browser or use a live server with your favorite code editor
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
 
 ### Run tests
 
@@ -105,19 +100,6 @@ Example command:
 ```
 --->
 
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -133,9 +115,8 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] ****
-- [ ] ****
-- [ ] ****
+- [Home page ] ****
+- [Desktop view] ****
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,21 +147,6 @@ If you like this project drop some encouraging comments
 
 
 I would like to thank the Microverse organization and my coding partners(Mani and Faiza)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-
-- **What is a Linter**
-
-  - Lint, or a linter, is a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs. The term originates from a Unix utility that examined C language source code. _ Lint(software) wikipedia
-
-- **What is a gitignore file used for**
-
-  - A .gitignore file is used for keeping selected sections of the code from being committed to github
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
